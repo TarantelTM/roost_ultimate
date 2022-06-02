@@ -1,0 +1,6 @@
+repositories {
+   maven { url = 'https://dvs1.progwml6.com/files/maven/'}}
+dependencies{
+  implementation fg.deobf('mezz.jei:jei-1.18.2:9.7.0.195:api')
+}
+

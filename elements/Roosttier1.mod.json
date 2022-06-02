@@ -1,0 +1,62 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EChickenCobble"
+      },
+      {
+        "value": "CUSTOM:EChickenStone"
+      },
+      {
+        "value": "CUSTOM:EChickenAndesite"
+      },
+      {
+        "value": "CUSTOM:EChickenGranit"
+      },
+      {
+        "value": "CUSTOM:EChickenDiorite"
+      },
+      {
+        "value": "CUSTOM:EChickenGravel"
+      },
+      {
+        "value": "CUSTOM:EChickenSand"
+      },
+      {
+        "value": "CUSTOM:EChickenOakwood"
+      },
+      {
+        "value": "CUSTOM:EChickenSprucewood"
+      },
+      {
+        "value": "CUSTOM:EChickenDarkOak"
+      },
+      {
+        "value": "CUSTOM:Chickenchicken"
+      },
+      {
+        "value": "CUSTOM:Echickenfeather"
+      },
+      {
+        "value": "CUSTOM:EChickenWool"
+      },
+      {
+        "value": "CUSTOM:EChickenBirchwood"
+      },
+      {
+        "value": "CUSTOM:EChickenJunglewood"
+      },
+      {
+        "value": "CUSTOM:EChickenHoneycomb"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "roost/tier1",
+    "namespace": "forge"
+  }
+}
