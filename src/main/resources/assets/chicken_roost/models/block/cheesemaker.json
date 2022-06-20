@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "chicken_roost:blocks/rubberchicken",
-    "particle": "chicken_roost:blocks/rubberchicken"
-  }
-}
